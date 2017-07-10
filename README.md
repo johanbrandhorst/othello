@@ -23,7 +23,7 @@ while compiled as a standalone executable, so it requires Racket to run.
 ### On the command line
 Run in this directory:
 ```
-$ racket -i -e '(require "Allting.scm")'
+$ racket -i -e '(require "Allting.rkt")'
 ```
 
 This starts the game in the Racket REPL, which appears to be
